@@ -1,0 +1,2 @@
+# AutoCompleteTextView
+练习AutoCompleteTextView，MultiCompleteTextView的使用，文档有得抄，不必死记硬背。
